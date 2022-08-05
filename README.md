@@ -1,11 +1,15 @@
   <br><br>
 
-![economyplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=economyplusdev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economyplusdev&layout=compact)](https://github.com/economyplusdev/github-readme-stats)
 ![economyplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=economyplusdev&hide=contribs,prs&theme=tokyonight)
 
 
 
 
 
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=economyplusdev&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src=(https://github-readme-stats.vercel.app/api?username=economyplusdev&hide=contribs,prs&theme=tokyonigh" />
+</a>
