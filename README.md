@@ -25,7 +25,7 @@ Current Projects
   # **PowerPoint Translator Pro**
   - A web based software that can automatically translate your powerpoint slides.
   - Supports text as well as speakernotes. 
-  - Website: [https://devs.economyplus.solutions](https://pptx.economyplus.solutions/)
+  - Website: https://pptx.economyplus.solutions/
 
 Past Projects
 
