@@ -21,6 +21,12 @@ Current Projects
   - Uses Machine learning to automatically catch errors in deployments as well creating a easy to use dashboard to upload scripts.
   - Website: https://devs.economyplus.solutions
 
+
+  # **PowerPoint Translator Pro**
+  - A web based software that can automatically translate your powerpoint slides.
+  - Supports text as well as speakernotes. 
+  - Website: [https://devs.economyplus.solutions](https://pptx.economyplus.solutions/)
+
 Past Projects
 
   # **PPTX Translator**
