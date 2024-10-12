@@ -20,6 +20,7 @@ Current Projects
   - Minecraft developer focused software application for aspiring developers to quickly upload and publish their scripts onto the Fairplay marketplace.
   - Uses Machine learning to automatically catch errors in deployments as well creating a easy to use dashboard to upload scripts.
   - Website: https://devs.economyplus.solutions
+  - **Preview it here** https://github.com/economyplusdev/Fairplay-developers-preview
 
 
   # **PowerPoint Translator Pro**
