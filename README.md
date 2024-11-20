@@ -22,6 +22,11 @@ Current Projects
   - Website: https://devs.economyplus.solutions
   - **Preview it here** https://github.com/economyplusdev/Fairplay-developers-preview
 
+  # **Minecraft Skin rendy**
+  -The problem: All service's on github/online would only support java skins and even then woudnt support mutiple faces like seen on bedrock, this would result in sometimes getting malformed skins and what not, this solves that. We reconstruct the skin from the Uv data.
+  - The solution: This means we support both the old skin format in which the skin would be manually mapped out onto a 3d vector(With multiple faces) as well as the new marketplace format that has persona + animation frames that need to be mapped out dynamically via the geometry_data in accordance with the pivots. 
+  - **View documentation** https://www.postman.com/bold-resonance-94846/skinrendererfp/request/jm02cd9/upload-new-skin
+
   # **PowerPoint Translator Pro**
   - A web based software that can automatically translate your powerpoint slides.
   - Supports text as well as speakernotes. 
