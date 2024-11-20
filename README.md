@@ -7,7 +7,7 @@
 
 Current Projects
   # **Fairplay Discord**
-  - Minecraft bedrock analytical software targeted towards server owners. Created to track your server metrics in near live time, as well as management, security and logging through discord.
+  Minecraft bedrock analytical software targeted towards server owners. Created to track your server metrics in near live time, as well as management, security and logging through discord.
   - Over 15k+ in revenue, 2000 discord servers, 500+ Monthly active users. 
   - Verified by discord as well as azure services.
   - Website: https://discord.com/application-directory/1028476352401248406
@@ -28,15 +28,17 @@ Current Projects
   - **View documentation** https://www.postman.com/bold-resonance-94846/skinrendererfp/request/jm02cd9/upload-new-skin
 
   # **PowerPoint Translator Pro**
-  - A web based software that can automatically translate your powerpoint slides.
-  - Supports text as well as speakernotes. 
+  A web based software that can automatically translate your powerpoint slides.
+  - Supports text, speaker notes, and text embedded with in shapes.
+  - Uses m2m100-1.2b AI model
   - Website: https://pptx.economyplus.solutions/
 
 Upcoming Projects
   # **Analytica**
-  - A new upcomming project that will allow server owners drop and start tracking custom metrics in near live time.
+  A metric based system that allows server owners to see statistics and breakdowns of their economic stance of their server. Intigrating flawlessly with the Fairplay ecosystem allowing plug and play. 
   - A public and robust Javascript API to allow cross-communication with other plugins. 
-  - Handles data compression + big data computations. 
+  - Handles data compression + big data computations.
+  - View: https://fp-external-mrkt-place.economyplus.solutions/analytica1.png + https://fp-external-mrkt-place.economyplus.solutions/image.png
 
 Past Projects
 
