@@ -24,7 +24,8 @@ Current Projects
 
   # **Minecraft Skin rendy**
   The problem: All service's on github/online would only support java skins and even then woudnt support mutiple faces like seen on bedrock, this would result in sometimes getting malformed skins and what not, this solves that. We reconstruct the skin from the Uv data.
-  - The solution: This means we support both the old skin format in which the skin would be manually mapped out onto a 3d vector(With multiple faces) as well as the new marketplace format that has persona + animation frames that need to be mapped out dynamically via the geometry_data in accordance with the pivots. 
+  - The solution: This means we support both the old skin format in which the skin would be manually mapped out onto a 3d vector(With multiple faces) as well as the new marketplace format that has persona + animation frames that need to be mapped out dynamically via the geometry_data in accordance with the pivots.
+  - Integrated into the discord embeds/messages seen inside the fairplay discord bot/dashboard
   - **View documentation** https://www.postman.com/bold-resonance-94846/skinrendererfp/request/jm02cd9/upload-new-skin
 
   # **PowerPoint Translator Pro**
@@ -33,7 +34,7 @@ Current Projects
   - Uses m2m100-1.2b AI model
   - Website: https://pptx.economyplus.solutions/
 
-  # **Analytica**
+  # **Fairplay x Analytica**
   A metric based system that allows server owners to see statistics and breakdowns of their economic stance of their server. Intigrating flawlessly with the Fairplay ecosystem allowing plug and play. 
   - A public and robust Javascript API to allow cross-communication with other plugins. 
   - Handles data compression + big data computations.
