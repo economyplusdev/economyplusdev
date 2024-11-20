@@ -33,7 +33,6 @@ Current Projects
   - Uses m2m100-1.2b AI model
   - Website: https://pptx.economyplus.solutions/
 
-Upcoming Projects
   # **Analytica**
   A metric based system that allows server owners to see statistics and breakdowns of their economic stance of their server. Intigrating flawlessly with the Fairplay ecosystem allowing plug and play. 
   - A public and robust Javascript API to allow cross-communication with other plugins. 
