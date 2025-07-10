@@ -1,6 +1,6 @@
-  <br><br>
+Experience: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=economyplusdev&layout=compact)](https://github.com/economyplusdev/github-readme-stats)
-![economyplus's GitHub stats](https://github-readme-stats.vercel.app/api?username=economyplusdev&hide=contribs,prs&theme=tokyonight)
-
-![economyplusdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=economyplusdev&show_icons=true&theme=radical)
+- Fairplay+
+-   Biggest MCBE related discord bot from 2019 - 2024
+-   Reached over 1,900 Discord servers, and over 500+ Daily users
+-   Interacted with Raknet, Microsoft authentication library, Xbox endpoints and more.
